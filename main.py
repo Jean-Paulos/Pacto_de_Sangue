@@ -1,4 +1,3 @@
-from questionary import select
 from text import *
 from utils import *
 
