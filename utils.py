@@ -1,9 +1,24 @@
 import pandas as pd
 import json
 from questionary import select
-from time import sleep, time
+from time import sleep, time # time é usado no arquivo main.py
 from datetime import timedelta
 
+def menu():
+    print('Bem-vindo ao jogo "O Pacto de Sangue"')
+    while True:
+        ask = select(
+            "Você tem algumas alternativas:",
+            choices=["Jogar", "Pontuação", "Sair"])
+        response = ask.ask()
+        if response == 'Jogar':
+            break
+        elif response == 'Pontuação':
+            tempo_media()
+            placar()
+        elif response == 'Sair':
+            exit()
+            
 def datilografa(texto, delay=0.1):
     for letter in texto:
         print(letter, end='', flush=True)
