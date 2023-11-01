@@ -1,5 +1,14 @@
+import pygame
+from random import randint
 from text import *
 from utils import *
+
+pygame.mixer.init()
+ambience = pygame.mixer.Sound('ambience.wav')
+jogador = input('Por favor, digite o seu nome: ')
+menu()
+tempo_inicio = time()
+ambience_channel = ambience.play(-1)
 
 # Editado por Jean
 
