@@ -47,3 +47,51 @@ Com o tempo, sua voz começa a ficar rouca e fraca, e você percebe que está fi
 c1_text013 = '''Você fecha os olhos por um momento na esperança de trazer à tona alguma lembrança do seu passado. As vozes continuam a sussurrar ao seu redor, e a sensação de que algo está acontecendo além das paredes do quarto só aumenta.
 Enquanto se esforça para desenterrar lembranças perdidas, sua mente vagueia até um momento distante e reconfortante: uma tarde de sol em um parque, onde uma risada de criança preenchia o ar. Você se lembra vividamente de estar cercado por sua família, sua filha brincando alegremente enquanto você os observava com um sorriso no rosto.
 Você decide se concentrar na tentativa de lembrar de algo, qualquer detalhe que possa ajudar a desvendar o mistério de como e por que você está preso neste lugar estranho. No entanto, mesmo com esforço, suas memórias parecem inalcançáveis, como se estivessem trancadas em algum lugar da sua mente.'''
+
+# Inicio C2
+c2_text000 = '''Após algum tempo, uma pequena porta na sala se abre, revelando um espaço escuro do qual você não pode ver muito. 
+Uma mão invisível entrega comida para você com um caderno e um giz, mas a pessoa que entrega permanece oculta. A ansiedade de você cresce à medida que você tenta em vão ver seu captor ou entender o propósito de sua prisão.''' 
+#CAP2 - Esperar uma resposta
+c2_text001 = '''Você nota que é sua comida favorita: um bife T-bone, arroz, purê e água num copo. 
+É coincidência ou uma provocação?
+Você sente fome e sede, mas também desconfiança. Você não sabe se a comida está envenenada ou se tem algum propósito oculto.''' #Analisar a comida 
+c2_text002 = '''Quem te prendeu não o quer morto agora... por que prender um morto?''' #Pense melhor
+c2_text003 = '''Você decide comer o bife, esperando que você lhe dê força e energia. 
+Você corta um pedaço com o talher e leva à boca. Você sente o sabor suculento e macio da carne, que lhe traz uma sensação de conforto e prazer.
+No entanto, você também sente uma pontada de culpa e tristeza, lembrando-se da última vez que comeu esse bife com a sua esposa.''' #Comer a comida
+c2_text004 = '''Você decide guardar {}, pensando pode ser últil como uma arma ou uma ferramenta. Você guarda {} em baixo da sua roupa, torcendo para que ninguém perceba. Você sente uma ponta de esperança e coragem, pensando que talvez você possa usar {} para se defender ou escapar.''' #Texto para guardar a faca ou o osso, mas com a opção .format
+c2_text005 = '''Após terminar de comer o personagem sente um breve momento de alivio e decide checar o caderno que recebeu.''' #Terminar de 
+c2_text006 = '''Após análisar o caderno você percebe uma semelhança com diário da sua filha''' #Analisar o caderno
+c2_text007 = '''20/05/2000
+Querido diário, hoje foi um dia bem esquisito. Algo está acontecendo com o meu pai, e eu não sei o que é. Normalmente, quando chego da escola, você me recebe com um sorriso e pergunta como foi meu dia, mas hoje você estava diferente.''' #Ler o diário
+c2_text008 = '''02/06/2000
+Querido diário, após o jantar, fui até o meu quarto e pude ouvir os sussurros abafados de meus pais vindos da sala. A voz de minha mãe soou preocupada, dizendo algo como "Precisamos conversar sobre isso, querido." Os pensamentos confusos começaram a se formar em minha mente, e uma inquietação cresceu dentro de mim. Eu não tinha ideia do que estava acontecendo, mas uma sensação de apreensão pairava no ar.''' #Virar uma página
+c2_text009 = '''29/06/2000
+Querido diário, olhando para o teto e pensando no que poderia estar acontecendo com o meu pai. Senti um nó se formar em meu estômago enquanto eu repassava em minha mente todas as vezes que você parecera distante ou agitado ultimamente. você estava agindo de maneira estranha, mas eu nunca poderia ter imaginado o que estava por trás disso.''' #Virar para a página 2
+c2_text010 = '''Você decide escrever no diário, pensando que você pode ser uma forma de expressar seus sentimentos ou registrar seus pensamentos. Você pega o giz e abre o diário em uma página em branco:
+
+Dia 1???
+
+Por que estou aqui, preso nesta sala branca? Será que é um manicômio? Não tenho lembrança de como vim parar aqui.
+Essa dor de cabeça constante me atormenta, como se algo estivesse tentando escapar da minha mente. Preciso entender o que aconteceu antes deste lugar.
+O diário parece ser a única forma de me expressar. Quem quer que tenha me colocado aqui, deve ter uma razão. Preciso descobrir.
+Minha filha, Cheryl... ela está em algum lugar lá fora? Estou angustiado e revoltado com a ideia de que algo possa ter acontecido com ela.
+As páginas em branco deste diário são meu refúgio neste mundo branco. Preciso encontrar respostas, entender meu passado e escapar desta angústia.
+A névoa da minha mente não me deixa em paz. Se ao menos pudesse lembrar o que aconteceu antes desta sala branca... ''' #Escrever no diário
+c2_text011 = '''Após ler o diário de sua filha, uma onda de angústia envolve você. 
+Sua mente se torna um turbilhão caótico de emoções. As palavras que acabou de ler ecoam implacavelmente em sua cabeça, entrelaçando-se com as vozes inquietantes que parecem espreitar ao seu redor.
+O quarto em si começa a se distorcer e a distorcer, como se fosse uma pintura surreal ganhando vida. Sombras dançam pelas paredes, e o ambiente antes estéril agora parece um labirinto de pesadelos.
+Você agarra a cabeça em angústia, tentando desesperadamente dar sentido ao tumulto dentro de você. A realidade se desfoca, e você se vê lutando em uma descida de pesadelo em sua própria psique.''' #Continuar
+c2_text012 = '''Enquanto você lutava contra a crescente angústia e as vozes perturbadoras, você de repente ouviu um som mecânico agudo. 
+A sala começou a tremer enquanto as paredes se distorciam ainda mais. 
+Então, sem aviso prévio, válvulas ocultas se abriram, liberando um gás enevoado que rapidamente se espalhou pelo espaço. você tentou resistir, mas a névoa sufocante logo o dominou, fazendo com que sua visão se tornasse turva e seus pensamentos se confundissem.''' #Tente se controlar!
+c2_text013 = '''Você está naquela estranha sala branca, um lugar que parece existir apenas nas profundezas de sua mente. As paredes brancas parecem se fechar ao seu redor, sufocando qualquer traço de esperança. As vozes inquietantes continuam a cochichar em seus ouvidos, como se sussurrassem segredos obscuros que você nunca deveria conhecer.
+No meio da sala, há uma corda pendurada no teto, balançando-se de forma ameaçadora. Uma ideia terrível começa a se formar em sua mente turbulenta. 
+Você se aproxima rapidamente da corda, com as mãos trêmulas e um nó na garganta. A cada passo que dá em direção a ela, a sensação de desespero cresce, como se estivesse sendo puxado para o abismo.
+Seus dedos trêmulos tocam a corda fria, e você a envolve lentamente em volta de seu pescoço. A cada volta da corda, sua respiração se torna mais superficial, seu coração bate mais rápido, e as vozes sussurrantes aumentam em intensidade, como um coro macabro. Você fecha os olhos, pronto para dar o passo final em direção ao desconhecido.
+Até que...''' #Ir até a corda
+c2_text014 = '''A sala começou a tremer enquanto as paredes se distorciam ainda mais. Então, sem aviso prévio, válvulas ocultas se abriram, liberando um gás enevoado que rapidamente se espalhou pelo espaço.
+A porta da sala branca se abre...
+Alguém passa por ela...
+Você desmaia...''' #...
+c2_text015 = '''Sua mão trêmula, segurando desesperadamente {} que você havia escondido em suas roupas. Mas à medida que o gás o envolveu, suas forças o abandonaram e você perdeu a consciência.''' #Esconder objetos
