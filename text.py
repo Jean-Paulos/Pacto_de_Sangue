@@ -95,3 +95,133 @@ A porta da sala branca se abre...
 Alguém passa por ela...
 Você desmaia...''' #...
 c2_text015 = '''Sua mão trêmula, segurando desesperadamente {} que você havia escondido em suas roupas. Mas à medida que o gás o envolveu, suas forças o abandonaram e você perdeu a consciência.''' #Esconder objetos
+# Inicio C3 - Jonhathan
+c3_text001 = '''Você acorda subitamente em um quarto estranho, as paredes envoltas por linhas nas bordas que o fazem parecer uma figura destacada em um mundo abstrato. O centro do quarto parece se tornar invisível, criando uma sensação de desconexão surreal. 
+Tudo ao redor está em chamas, com chamas dançantes que se estendem até onde seus olhos podem alcançar, criando um horizonte ardente que parece infinito.
+Perdido em meio a essa visão infernal.
+As chamas crepitam ao seu redor, mas, surpreendentemente, não causam dano ao seu corpo.''' 
+c3_text002='''Enquanto observa com horror, uma figura sombria começa a surgir nas chamas. 
+Parece um monstro humanoide, distorcido e grotesco, com asas negras que lembram as de um anjo caído.
+O monstro empunha uma espada brilhante, reluzindo com uma luz ofuscante.
+À sua frente, a figura demoníaca mantém uma mulher deitada, que se assemelha à sua esposa, chorando e indefesa. 
+Seu coração aperta ao ver essa visão aterrorizante. O monstro levanta as mãos com a espada empunhada, parecendo estar preparando-se para realizar o golpe antecessor ao último suspiro de sua amada...'''
+c3_text003='''O monstro faz um movimento lento e deliberado, como se estivesse prestes a decapitar sua esposa diante dos seus olhos, mergulhando-o em um abismo de angústia e desespero.
+Sem pensar duas vezes, você corre em direção ao monstro grotesco. 
+Uma determinação feroz toma conta de você, como se uma força interior que você nunca soube que possuía o impulsionasse para a ação. Seu coração bate descontroladamente, mas a sensação de que pode fazer a diferença é avassaladora.
+Com cada passo que dá na direção do monstro, você sente uma coragem que nunca imaginou ter.'''
+c3_text004='''Algo estranho começa a acontecer.
+Sua visão, que estava clara e nítida durante o confronto, começa a se esfumaçar e turvar gradualmente.
+Parece que a cada passo que dá, a realidade fica mais distante, como se estivesse sendo puxado para longe daquela cena triunfante.
+Sem entender, olhando para sua esposa, ela parece cada vez mais distante, seu rosto se tornando embaçado e irreconhecível.
+A sensação de desamparo cresce à medida que você se vê perdendo o controle sobre a situação. A esperança que você havia recuperado no momento do confronto se apaga lentamente, substituída por uma sensação de impotência esmagadora. Você luta contra a escuridão que se aproxima, mas parece uma batalha perdida. O mundo ao seu redor desaparece, e você se encontra mergulhado em um abismo de incerteza e desespero.
+Sua esperança
+chegou ao fim.'''
+# Inicio C4 - Jonhathan
+c4_text001="""Você acorda no meio da sala branca e clara, levanta-se e imediatamente sente tontura. 
+Uma onda de desespero o envolve quando você percebe que está preso. 
+A sensação de que algo está terrivelmente errado começa a se instalar, e você luta para entender como chegou a esse ponto.
+Você passa as mãos por todo o seu corpo, em busca de algo fora do comum, mas não encontra nada que possa explicar sua situação. 
+Sua mente está cheia de perguntas sem respostas, e o desespero continua a crescer."""
+c4_text002="""Você nota os mesmos elementos na sala. 
+Algo parece diferente em cada um deles."""
+c4_text003="""Ela é completamente branca e se mistura à parede. No entanto, tem uma pequena escotilha na parte inferior.
+Bater na porta não faz mais tanto sentido."""
+c4_text004="""A câmera, escondida nas sombras do canto superior, parece observar cada um de seus movimentos. você sente-se nu diante de seus olhos, aumentando ainda mais sua sensação de aprisionamento."""
+c4_text005="""Em um canto da sala, há um sanitário simples."""
+c4_text006="""A cadeira é uma peça simples de mobília. Ela é feita de um material branco, combinando com o ambiente. Quando você tenta movê-la, você logo percebe que a cadeira está estranhamente presa ao chão, como se tivesse sido fundida com o próprio piso. Seus esforços para deslocá-la são em vão.
+Talvez se sentar ajude a refletir sobre tudo."""
+c4_text007="""20/05/2000
+Querido diário, hoje foi um dia bem esquisito. Algo está acontecendo com o meu pai, e eu não sei o que é. Normalmente, quando chego da escola, você me recebe com um sorriso e pergunta como foi meu dia, mas hoje você estava diferente.
+
+------
+
+02/06/2000
+Querido diário, após o jantar, fui até o meu quarto e pude ouvir os sussurros abafados de meus pais vindos da sala. A voz de minha mãe soou preocupada, dizendo algo como "Precisamos conversar sobre isso, querido." Os pensamentos confusos começaram a se formar em minha mente, e uma inquietação cresceu dentro de mim. Eu não tinha ideia do que estava acontecendo, mas uma sensação de apreensão pairava no ar.
+
+------
+
+29/06/2000
+Querido diário, olhando para o teto e pensando no que poderia estar acontecendo com o meu pai. Senti um nó se formar em meu estômago enquanto eu repassava em minha mente todas as vezes que você parecera distante ou agitado ultimamente. você estava agindo de maneira estranha, mas eu nunca poderia ter imaginado o que estava por trás disso.
+
+------
+
+Dia 1???
+
+Por que estou aqui, preso nesta sala branca? Será que é um manicômio? Não tenho lembrança de como vim parar aqui.
+Essa dor de cabeça constante me atormenta, como se algo estivesse tentando escapar da minha mente. Preciso entender o que aconteceu antes deste lugar.
+O diário parece ser a única forma de me expressar. Quem quer que tenha me colocado aqui, deve ter uma razão. Preciso descobrir.
+Minha filha, Cheryl... ela está em algum lugar lá fora? Estou angustiado e revoltado com a ideia de que algo possa ter acontecido com ela.
+As páginas em branco deste diário são meu refúgio neste mundo branco. Preciso encontrar respostas, entender meu passado e escapar desta angústia.
+A névoa da minha mente não me deixa em paz. Se ao menos pudesse lembrar o que aconteceu antes desta sala branca"""
+c4_text008="""Pareceu ser uma boa ideia... mas ainda não é"""
+c4_text009="""Você decide analisar a parede, mas ela é apenas branca e lisa, sem qualquer marca ou detalhe. Está localizada em um ponto abaixo da câmera do quarto, um ponto cego, o que a torna ainda mais intrigante, mas aparentemente não há nada de especial nela."""
+c4_text010="""*Nota do criador
+"Não sejamos hipócritas, todos fazemos isso, alguns somente em casa"
+Você termina o que foi fazer e da descarga."""
+c4_text011="""Quando você se senta na cadeira, sua mente começa a vagar em busca de respostas para o pesadelo que está vivendo. Fechando os olhos por um momento, uma lembrança emerge lentamente.
+Em um dia tranquilo, você acorda com a luz suave do sol filtrando pelas cortinas. A casa está em estado de caos, com móveis derrubados e objetos quebrados. Você se dirige à cozinha e encontra sua esposa, segurando sua filha no colo. No entanto, algo está errado. O olhar dela está cheio de medo e desconfiança ao vê-lo. Ela recua, mantendo a criança protegida em seus braços, os olhos cheios de lágrimas. Suas palavras sussurradas são ininteligíveis, mas é claro que ela teme você.
+Essa lembrança fragmentada só aumenta a sensação de desespero e confusão que o envolve. O que aconteceu entre aquele dia e esta sala branca? Você luta para juntar os pedaços desse quebra-cabeça assustador, procurando desesperadamente por alguma pista que possa explicar como tudo chegou a isso.
+Talvez o diário ajude"""
+c4_text012=""#texto foi descartado
+c4_text013=""#texto foi descartado
+c4_text014="""Dia 2 ou 3 ?
+
+Querido diário... querido? Eu já estou ficando louco. Tudo ao meu redor é um turbilhão de confusão e medo, e não tenho ideia de como cheguei a este lugar estranho. A sala é branca e clara, mas tudo parece tão surreal que não posso acreditar que isso seja real.
+Hoje, enquanto me sentava em uma cadeira solitária neste quarto, minhas memórias começaram a voltar, e com elas veio uma lembrança aterrorizante... Ela recuou quando me aproximei, mantendo nossa filha protegida. Lágrimas encheram seus olhos, e suas palavras sussurradas pareciam um segredo que eu não conseguia decifrar.
+A lembrança me atormenta, deixando-me ainda mais confuso e desesperado. Como cheguei desta cena familiar para esta sala branca e infernal? O que aconteceu no intervalo? Meu único consolo é este diário, que se tornou meu confidente silencioso neste lugar insano. Talvez, ao registrar essas lembranças e perguntas, eu possa encontrar algum fio de sanidade em meio ao caos que me cerca.
+Eu preciso traçar um plano para sair daqui."""
+
+c4_text015=""#texto foi descartado
+c4_text016=""#texto foi descartado
+c4_text017="""Você decide desenhar na parede usando o único giz de cera que possui. O desenho é simples, com apenas uma cor disponível, mas tem um significado profundo. Representa uma tarde ensolarada em que você, sua esposa e sua filha estão juntos, todos sorrindo e felizes. É uma cena que você anseia rvocêmbrar e recuperar, mesmo que seja apenas com um simples desenho de giz de cera."""
+c4_text018="""Você decide analisar a parede, mas ela é apenas branca, lisa e agora possuí um desenhos de você e sua familia felizes numa tarde ensolarada. Está localizada em um ponto abaixo da câmera do quarto, um ponto cego, o que a torna ainda mais intrigante, mas aparentemente não há nada de especial nela.
+Você escuta um som vindo da porta..."""
+c4_text019=""#texto foi descartado
+c4_text020="""20/05/2000
+Querido diário, hoje foi um dia bem esquisito. Algo está acontecendo com o meu pai, e eu não sei o que é. Normalmente, quando chego da escola, você me recebe com um sorriso e pergunta como foi meu dia, mas hoje você estava diferente.
+
+------
+
+02/06/2000
+Querido diário, após o jantar, fui até o meu quarto e pude ouvir os sussurros abafados de meus pais vindos da sala. A voz de minha mãe soou preocupada, dizendo algo como "Precisamos conversar sobre isso, querido." Os pensamentos confusos começaram a se formar em minha mente, e uma inquietação cresceu dentro de mim. Eu não tinha ideia do que estava acontecendo, mas uma sensação de apreensão pairava no ar.
+
+------
+
+29/06/2000
+Querido diário, olhando para o teto e pensando no que poderia estar acontecendo com o meu pai. Senti um nó se formar em meu estômago enquanto eu repassava em minha mente todas as vezes que você parecera distante ou agitado ultimamente. você estava agindo de maneira estranha, mas eu nunca poderia ter imaginado o que estava por trás disso.
+
+------
+
+Dia 1???
+
+Por que estou aqui, preso nesta sala branca? Será que é um manicômio? Não tenho lembrança de como vim parar aqui.
+Essa dor de cabeça constante me atormenta, como se algo estivesse tentando escapar da minha mente. Preciso entender o que aconteceu antes deste lugar.
+O diário parece ser a única forma de me expressar. Quem quer que tenha me colocado aqui, deve ter uma razão. Preciso descobrir.
+Minha filha, Cheryl... ela está em algum lugar lá fora? Estou angustiado e revoltado com a ideia de que algo possa ter acontecido com ela.
+As páginas em branco deste diário são meu refúgio neste mundo branco. Preciso encontrar respostas, entender meu passado e escapar desta angústia.
+A névoa da minha mente não me deixa em paz. Se ao menos pudesse lembrar o que aconteceu antes desta sala branca...
+
+------
+
+Dia 2 ou 3 ?
+
+Querido diário... querido? Eu já estou ficando louco. Tudo ao meu redor é um turbilhão de confusão e medo, e não tenho ideia de como cheguei a este lugar estranho. A sala é branca e clara, mas tudo parece tão surreal que não posso acreditar que isso seja real.
+Hoje, enquanto me sentava em uma cadeira solitária neste quarto, minhas memórias começaram a voltar, e com elas veio uma lembrança aterrorizante... Ela recuou quando me aproximei, mantendo nossa filha protegida. Lágrimas encheram seus olhos, e suas palavras sussurradas pareciam um segredo que eu não conseguia decifrar.
+A lembrança me atormenta, deixando-me ainda mais confuso e desesperado. Como cheguei desta cena familiar para esta sala branca e infernal? O que aconteceu no intervalo? Meu único consolo é este diário, que se tornou meu confidente silencioso neste lugar insano. Talvez, ao registrar essas lembranças e perguntas, eu possa encontrar algum fio de sanidade em meio ao caos que me cerca.
+Eu preciso traçar um plano para sair daqui."""
+c4_text021="""Você vai até a porta e mais uma refeição é entregue. A bandeja contém um bife T-bone suculento, arroz, purê de batatas e um copo de água. Os talheres são de plástico e a bandeja de ferro. """
+c4_text022="""Você come a comida com voracidade, pois a fome é avassaladora. O sabor do bife T-bone suculento, do arroz e do purê de batatas é reconfortante, mesmo diante das circunstâncias estranhas e desconhecidas. Cada garfada é uma pequena lufada de normalidade em meio ao desconcerto que o cerca."""
+c4_text023="""Você decide guardar o osso do bife, pensando que você pode ser útil como uma arma ou uma ferramenta. Você esconde o osso embaixo da sua roupa, torcendo para que ninguém perceba. Você sente uma ponta de esperança e coragem, pensando que talvez você possa usar o osso para se defender ou escapar."""
+c4_text024="""Você decide guardar a faca, pensando que você pode ser útil como uma arma ou uma ferramenta. Você esconde a faca embaixo da sua roupa, torcendo para que ninguém perceba. Você sente uma ponta de esperança e coragem, pensando que talvez você possa usar a faca para se defender ou escapar."""
+c4_text025="""Após terminar de comer o personagem sente um breve momento de alivio.
+Uma mão pega sua bandeja."""
+c4_text026="""Ela é completamente branca e se mistura à parede. No entanto, tem uma pequena escotilha na parte inferior.
+Um papel desliza por debaixo da porta."""
+c4_text027="""A porta à sua frente é quase imperceptível, camuflada na parede branca, com apenas uma pequena escotilha na parte inferior. Seu foco, no entanto, está no apetitoso prato de comida à sua frente."""
+c4_text028="""Ela é completamente branca e se mistura à parede. No entanto, tem uma pequena escotilha na parte inferior.
+Um papel desliza por debaixo da porta."""
+c4_text029="""Você decide analisar a parede, mas ela é apenas branca, lisa e agora possuí um desenhos de você e sua familia felizes numa tarde ensolarada. Está localizada em um ponto abaixo da câmera do quarto, um ponto cego, o que a torna ainda mais intrigante, mas aparentemente não há nada de especial nela."""
+c4_text030=""""Oi, estive te observando enquanto nosso inimigo não está. 
+Logo nos veremos. 
+Até lá, lembre-se de que, na escuridão da incerteza, você deve encontrar a centelha da esperança, deixar a faca talhar o retorno à sua vida normal, como uma obra-prima na parede da existência, e aguardar o momento certo para brilhar, mesmo após o gás da adversidade ter passado."
+"Ps: quando terminar de ler me destrua o papel."""
