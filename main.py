@@ -648,6 +648,26 @@ while True: #Regra criada para alterar o texto e "choises" da "Cadeira c5" e "Di
         load_and_listen()
         datilografa(c5_text064,delay=0.02)
         load_and_listen()
+        tempo_fim = time() 
+        tempo_decorrido = tempo_fim - tempo_inicio
+        tempo_legivel = str(timedelta(seconds=tempo_decorrido))
+        tempo_formatado = tempo_legivel.split('.')[0]
+
+        dados = {
+        "Jogador": jogador,
+        "Tempo": tempo_formatado
+        }
+
+        placar = "placar.json" 
+
+        try:
+            with open(placar, "r") as arquivo_json:
+                dados_antigos = json.load(arquivo_json)
+        except FileNotFoundError:
+            dados_antigos = []
+        dados_antigos.append(dados)
+        with open(placar, "w") as arquivo_json:
+            json.dump(dados_antigos, arquivo_json)
 
         if response == 'A corda':
             datilografa(c5_text065,delay=0.02)
