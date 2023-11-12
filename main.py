@@ -4,7 +4,7 @@ from text import *
 from utils import *
 
 pygame.mixer.init()
-ambience = pygame.mixer.Sound('ambience.wav')
+ambience = pygame.mixer.Sound('ambience.mp3')
 jogador = input('Por favor, digite o seu nome: ')
 menu()
 tempo_inicio = time()
