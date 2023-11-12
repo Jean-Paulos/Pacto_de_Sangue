@@ -3,6 +3,25 @@ import json
 from questionary import select
 from time import sleep, time # time é usado no arquivo main.py
 from datetime import timedelta
+from sys import stdout
+from threading import Thread
+
+def load():
+    for i in range(4):
+            stdout.write("   ",)
+            x = i % 4
+            stdout.write('\r' + "." * x)
+            sleep(0.5)
+            stdout.flush()
+
+def load_and_listen():
+    thread_de_carregamento = Thread(target=load)
+
+    try:
+        thread_de_carregamento.start()
+        input()
+    finally:
+        thread_de_carregamento.join()
 
 def menu():
     print('Bem-vindo ao jogo "O Pacto de Sangue"')
