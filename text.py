@@ -225,3 +225,220 @@ c4_text030=""""Oi, estive te observando enquanto nosso inimigo não está.
 Logo nos veremos. 
 Até lá, lembre-se de que, na escuridão da incerteza, você deve encontrar a centelha da esperança, deixar a faca talhar o retorno à sua vida normal, como uma obra-prima na parede da existência, e aguardar o momento certo para brilhar, mesmo após o gás da adversidade ter passado."
 "Ps: quando terminar de ler me destrua o papel."""
+
+# Inicio C5
+
+#[[Destruir bilhete]]
+c5_text001 = '''Você observa o bilhete por um momento.'''
+#input [[Destruir bilhete]]
+c5_text002 = '''Sentindo um misto de confusão e ansiedade tomar conta de você.'''
+c5_text002_1 = '''As palavras escritas ali parecem desafiar sua lógica, mas, ao mesmo tempo, você sente uma faísca de esperança se acender dentro de si.'''
+c5_text002_2 = '''Com um sorriso nervoso, você decide jogar o bilhete no sanitário, como se estivesse se livrando de um fardo. Uma sensação de alívio e excitação toma conta de você, pois agora tem um plano, algo para se agarrar nesta sala branca de incertezas.'''
+#[[Olhar em volta c5]]
+c5_text003 = '''Você nota os mesmos elementos na sala. 
+Algo parece diferente em cada um deles.'''
+#[[Porta c5]]
+c5_text004 = '''Você não aguenta mais ver essa porta fechada.
+Ela é completamente branca e se mistura à parede. 
+No entanto, tem uma porra de escotilha na parte inferior.'''
+#[[Câmera c5]]
+c5_text005 = '''Ah, sim, mais um dia empolgante de observação, pessoal! Será que vou fazer algo diferente hoje? Spoiler: provavelmente não!'''
+#[[Sanitario c5]]
+c5_text006 = '''Em um canto da sala, há um sanitário simples.'''
+#[[Cagar c5]]
+c5_text007 = '''Cagar, cagar, o chamado da natureza, etc... etc...
+Você termina o que foi fazer e da descarga.'''
+#[[Cadeira c5]]
+c5_text008 = '''"Bem, olá novamente, minha velha amiga cadeira. Que surpresa nos encontrarmos aqui, mais uma vez, não é mesmo? Aposto que você está cansada de ver a mesma cara todos os dias. E eu, bom, estou simplesmente extasiado por desfrutar da sua companhia incrivelmente confortável"'''
+#[[Sentar-se na cadeira c5]]
+c5_text009 = '''Gradualmente, uma lembrança emerge das profundezas de sua mente.'''
+#[[Diário c5]]
+c5_text010 = '''Dia 1???
+
+Por que estou aqui, preso nesta sala branca? Será que é um manicômio? Não tenho lembrança de como vim parar aqui.
+Essa dor de cabeça constante me atormenta, como se algo estivesse tentando escapar da minha mente. Preciso entender o que aconteceu antes deste lugar.
+O diário parece ser a única forma de me expressar. Quem quer que tenha me colocado aqui, deve ter uma razão. Preciso descobrir.
+Minha filha, Cheryl... ela está em algum lugar lá fora? Estou angustiado e revoltado com a ideia de que algo possa ter acontecido com ela.
+As páginas em branco deste diário são meu refúgio neste mundo branco. Preciso encontrar respostas, entender meu passado e escapar desta angústia.
+A névoa da minha mente não me deixa em paz. Se ao menos pudesse lembrar o que aconteceu antes desta sala branca...
+
+Dia 2 ou 3 ?
+
+Querido diário... querido? Eu já estou ficando louco. Tudo ao meu redor é um turbilhão de confusão e medo, e não tenho ideia de como cheguei a este lugar estranho. 
+A sala é branca e clara, mas tudo parece tão surreal que não posso acreditar que isso seja real.
+Hoje, enquanto me sentava em uma cadeira solitária neste quarto, minhas memórias começaram a voltar, e com elas veio uma lembrança aterrorizante... Ela recuou quando me aproximei, mantendo nossa filha protegida. Lágrimas encheram seus olhos, e suas palavras sussurradas pareciam um segredo que eu não conseguia decifrar.
+A lembrança me atormenta, deixando-me ainda mais confuso e desesperado. Como cheguei desta cena familiar para esta sala branca e infernal? O que aconteceu no intervalo? Meu único consolo é este diário, que se tornou meu confidente silencioso neste lugar insano. Talvez, ao registrar essas lembranças e perguntas, eu possa encontrar algum fio de sanidade em meio ao caos que me cerca.
+Eu preciso traçar um plano para sair daqui.'''
+#[[Escrever no diário c5]]
+c5_text011 = '''Dia? tanto faz, todos são iguais
+
+Olá velho amigo. Vou te contar uma piada. ja ouviu aquela sobre o idiota preso em um quarto branco, não? Aquela em que ele se ferra todo, e tem que encontra um saida, enquanto algum tipo de sádico o manipula. Sim você está ouvindo, lendo... Essa piada, vamos la...'''
+#[[Continuar escrevendo c5]]
+c5_text012 = '''HOJE ESTOU NOVAMENTE NESTE LUGAR DO CARALHO. Isso, nesta sala branca e inquietante. Minha mente está uma bagunça, e estou completamente confuso sobre como vim parar aqui e por quê. As palavras que li neste diário da minha filha ecoam incessantemente em minha cabeça, misturando-se com as vozes inquietantes ao meu redor. O ambiente ao meu redor parece estar se transformando em um pesadelo fudido. Desculpe o palavreado. É que... Tive um sonho...'''
+#input [[Continuar escrevendo c5]]
+c5_text013 = '''Percebo que não estou sozinho e que alguém está nos observando. As chamas que cercam a sala não me causam dano, o que é estranho e perturbador. E então, uma figura sombria emerge das chamas, um monstro grotesco que se assemelha a um anjo caído, Lúcifer. Ele empunha uma espada brilhante.'''
+#input [[Continuar escrevendo c5]]
+c5_text014 = '''À sua frente, uma mulher deitada que se parece com minha esposa chora e parece estar em perigo. Eu sinto uma angústia profunda, um desejo de impedi-lo. Mas à medida que tento me aproximar, minha visão se torna turva e a figura se afasta. Parece que a esperança está sempre fora do meu alcance.'''
+#input [[Continuar escrevendo c5]]
+c5_text015 = '''Hoje, recebi um bilhete enigmático que me deu uma pista sobre como escapar deste lugar. Algo sobre encontrar uma arma, chamar a atenção e esperar o momento certo. Como se isso fosse algum tipo de jogo... Tive uma memória...'''
+#input [[Continuar escrevendo c5]]
+c5_text016 = '''Lembro-me de uma memória borrosa, correndo atrás de uma mulher com uma criança nos braços, segurando uma faca. A lembrança é vaga, mas sinto um profundo pesar e arrependimento. Estou perto de encontrar uma saída, de descobrir a verdade por trás de tudo isso. Tenho um plano, e sinto que posso fazê-lo funcionar.
+Até a próxima, diário...'''
+#[[Refletir c5]]
+c5_text017 = '''Preciso de um plano, analisar minhas opções...'''
+#input [[Refletir c5]]
+c5_text018 = '''Roupa: Você olha para a roupa que veste e pondera se tirá-la seria uma boa opção. Seria possível usar a roupa para tapar o nariz e a boca e, assim, tentar anular o efeito do gás.'''
+#input [[Refletir c5]]
+c5_text019 = '''Criar uma distração: O desenho na parede parece ser uma opção interessante. Você se lembra do desenho que fez, retratando sua família em um momento feliz. Talvez essa imagem possa ser usada como uma distração para chamar a atenção de quem o mantém cativo.'''
+#input [[Refletir c5]]
+c5_text020 = '''Uma oportunidade: Você considera a ideia de esperar por uma oportunidade, um momento de vulnerabilidade por parte do sequestrador. Se ele aparecer, você poderia aproveitar esse momento para agir.'''
+#input [[Refletir c5]]
+c5_text021 = '''Talvez o bilhete seja sobre isso...'''
+#[[Olhar em volta c5]]
+#[[Parede c5]]
+c5_text022 = '''Você decide analisar a parede, mas ela é apenas branca, lisa e agora possuí um desenhos de você e sua familia felizes numa tarde ensolarada. Está localizada em um ponto abaixo da câmera do quarto, um ponto cego, o que a torna ainda mais intrigante, mas aparentemente não há nada de especial nela.'''
+#[[Olhar em volta c5]]
+#[[Corda suspensa c5]]
+c5_text023 = '''Boa tarde, um dia... Não vá desistir antes de mim.'''
+#[[Olhar em volta c5]]
+#[[Diário c5-2]]
+c5_text024 = '''Dia 1???
+
+Por que estou aqui, preso nesta sala branca? Será que é um manicômio? Não tenho lembrança de como vim parar aqui.
+Essa dor de cabeça constante me atormenta, como se algo estivesse tentando escapar da minha mente. Preciso entender o que aconteceu antes deste lugar.
+O diário parece ser a única forma de me expressar. Quem quer que tenha me colocado aqui, deve ter uma razão. Preciso descobrir.
+Minha filha, Cheryl... ela está em algum lugar lá fora? Estou angustiado e revoltado com a ideia de que algo possa ter acontecido com ela.
+As páginas em branco deste diário são meu refúgio neste mundo branco. Preciso encontrar respostas, entender meu passado e escapar desta angústia.
+A névoa da minha mente não me deixa em paz. Se ao menos pudesse lembrar o que aconteceu antes desta sala branca...
+
+------
+
+Dia 2 ou 3 ?
+
+Querido diário... querido? Eu já estou ficando louco. Tudo ao meu redor é um turbilhão de confusão e medo, e não tenho ideia de como cheguei a este lugar estranho. A sala é branca e clara, mas tudo parece tão surreal que não posso acreditar que isso seja real.
+Hoje, enquanto me sentava em uma cadeira solitária neste quarto, minhas memórias começaram a voltar, e com elas veio uma lembrança aterrorizante... Ela recuou quando me aproximei, mantendo nossa filha protegida. Lágrimas encheram seus olhos, e suas palavras sussurradas pareciam um segredo que eu não conseguia decifrar.
+A lembrança me atormenta, deixando-me ainda mais confuso e desesperado. Como cheguei desta cena familiar para esta sala branca e infernal? O que aconteceu no intervalo? Meu único consolo é este diário, que se tornou meu confidente silencioso neste lugar insano. Talvez, ao registrar essas lembranças e perguntas, eu possa encontrar algum fio de sanidade em meio ao caos que me cerca.
+Eu preciso traçar um plano para sair daqui.
+
+------
+
+Dia? tanto faz, todos são iguais
+
+Olá velho amigo. Vou te contar uma piada. ja ouviu aquela sobre o idiota preso em um quarto branco, não? Aquela em que ele se ferra todo, e tem que encontra um saida, enquanto algum tipo de sádico o manipula. Sim você está ouvindo, lendo... Essa piada, vamos la...
+HOJE ESTOU NOVAMENTE NESTE LUGAR DO CARALHO. Isso, nesta sala branca e inquietante. Minha mente está uma bagunça, e estou completamente confuso sobre como vim parar aqui e por quê. As palavras que li neste diário da minha filha ecoam incessantemente em minha cabeça, misturando-se com as vozes inquietantes ao meu redor. O ambiente ao meu redor parece estar se transformando em um pesadelo fudido. Desculpe o palavreado. É que... Tive um sonho... 
+Percebo que não estou sozinho e que alguém está nos observando. As chamas que cercam a sala não me causam dano, o que é estranho e perturbador. E então, uma figura sombria emerge das chamas, um monstro grotesco que se assemelha a um anjo caído, Lúcifer. Ele empunha uma espada brilhante.
+À sua frente, uma mulher deitada que se parece com minha esposa chora e parece estar em perigo. Eu sinto uma angústia profunda, um desejo de impedi-lo. Mas à medida que tento me aproximar, minha visão se torna turva e a figura se afasta. Parece que a esperança está sempre fora do meu alcance.
+Hoje, recebi um bilhete enigmático que me deu uma pista sobre como escapar deste lugar. Algo sobre encontrar uma arma, chamar a atenção e esperar o momento certo. Como se isso fosse algum tipo de jogo... Tive uma memória...
+Lembro-me de uma memória borrosa, correndo atrás de uma mulher com uma criança nos braços, segurando uma faca. A lembrança é vaga, mas sinto um profundo pesar e arrependimento. Estou perto de encontrar uma saída, de descobrir a verdade por trás de tudo isso. Tenho um plano, e sinto que posso fazê-lo funcionar.
+
+Até a próxima, diário...'''
+#[[Olhar em volta c5]]
+#[[Por plano em prática c5]] (Após ter lido o [[Refletir c5]])
+c5_text025 = '''A sala começou a tremer enquanto as paredes se distorciam ainda mais. Então, sem aviso prévio, válvulas ocultas se abriram, liberando um gás enevoado que rapidamente se espalhou pelo espaço.'''
+#iput [[Por plano em prática c5]]
+c5_text026 = '''Você coloca a camisa no rosto, cobrindo o nariz e a boca para evitar o efeito do gás. Em seguida, decide se deitar no chão, fingindo estar inconsciente devido ao gás que se espalha pela sala. Sua visão fica turva por um momento, mas seus pensamentos permanecem claros.
+Agora, com sua estratégia bem-sucedida, você aguarda deitado, pronto para aproveitar qualquer oportunidade que surja. As vozes inquietantes ao seu redor tornam-se ainda mais intensas, como se o quarto estivesse ciente de sua agitação.'''
+#iput [[Por plano em prática c5]]
+c5_text027 = '''O que você fará a seguir?'''
+#[[Aguardar o momento certo]]
+c5_text028 = '''Você mantém os olhos fechados, concentrando-se em manter sua respiração controlada. O barulho da porta se abrindo ecoa pela sala, enchendo-o de tensão. Você sente que o momento crucial está próximo, mas decide não se precipitar e continua fingindo estar inconsciente.'''
+#input [[Aguardar o momento certo]]
+c5_text029 = '''A figura que entrou na sala parece movimentar-se com cautela. As vozes inquietantes ao seu redor parecem sussurrar mais alto, como se estivessem cientes da presença da nova pessoa. Você espera pacientemente, pronto para agir no momento certo.'''
+#[[Atacar agora!]]
+c5_text030 = '''Você decide que não pode esperar mais. Com um movimento rápido e desesperado, você se levanta e se lança na direção do som da porta se abrindo, determinado a confrontar seu sequestrador. No entanto, sua ação impulsiva o coloca em perigo, pois algo pontiagudo penetra profundamente em seu lado, causando uma dor aguda e lancinante. 
+Com um movimento rápido e desesperado, você se levanta e se lança em sua direção. No entanto, sua ação impulsiva o coloca em perigo, pois algo pontiagudo penetra profundamente em seu lado, causando uma dor aguda e lancinante.'''
+#input [[Atacar agora!]] - Sistema de ataque
+c5_text031 = '''Antes que suas vistas escureçam, você consegue vislumbrar algo: um cabo e uma forma feminina no rosto de seu sequestrador. Seu mundo fica cada vez mais nebuloso, enquanto o mistério em torno de sua captura se aprofunda. O que aguarda você nos cantos sombrios dessa sala branca?'''
+#[[Esperar]]
+c5_text032 = '''Seus olhos, outrora cerrados, agora desvelavam segredos sob pálpebras entreabertas. Você consegue observar.'''
+#input [[Esperar]]
+c5_text033 = '''O sequestrador adentrou a sala com passos silenciosos, os olhos cautelosos analisando o ambiente. A névoa do gás ainda pairava no ar, obscurecendo a visão e tornando tudo indistinto. Seu olhar vagou pela sala, finalmente pousando no desenho na parede. As sombras e os contornos do desenho pareciam se mexer, distorcendo-se de maneira sinistra sob o efeito da névoa.'''
+#input [[Esperar]]
+c5_text034 = '''Ao ver a representação de uma cena familiar. A imagem capturava um momento de felicidade, uma família reunida sob o sol. A mulher, o homem e a criança pareciam irradiar alegria naquele desenho. No entanto, o sequestrador percebeu um detalhe peculiar: o rosto do homem estava parcialmente apagado, como se o traço do lápis tivesse sido intencionalmente enfraquecido.'''
+#input [[Esperar]]
+c5_text035 = '''Intrigado, o sequestrador estendeu a mão na direção do desenho, como se quisesse tocá-lo. O desenho parecia pulsar e vibrar, criando uma sensação inquietante. O sequestrador continuou observando.'''
+#[[Atacar]] ou [[Esperar por mais...]]
+#[[Atacar]]
+c5_text036 = '''Você decide atacar. '''
+#input [[Atacar]]
+c5_text037 = '''O sequestrador, vestido de preto com um sobretudo e uma máscara cinza cobrindo o rosto, revela sua silhueta misteriosa. Enquanto você se levanta, empunha sua arma e desfere um golpe.'''
+#input [[Atacar]]
+c5_text038 = '''Sua ação precipitada tem uma resposta incerta '''
+#rodar o dado - [[[fim]]] ou [[Mais uma tentativa]] ou [[Efetivo]]
+#[[Mais uma tentativa]]
+c5_text039 = '''O sequestrador, antecipando seu golpe, consegue evitar o ataque inicial. No entanto, você persiste e tem mais uma chance de tentar acertá-lo.'''
+#rodar o dado - [[[fim]]] ou [[Efetivo]]
+#[[Esperar por mais...]]
+c5_text040 = '''Você decide esperar por mais um momento, observando enquanto o sequestrador revela um punhal em suas mãos trêmulas.'''
+#input [[Espera por mais...]]
+c5_text041 = '''Com uma expressão sombria e fúria indisfarçável, ele começa a riscar o desenho na parede de maneira bruta e frenética. Enquanto seus olhos tentam captar cada movimento, você percebe um leve choro saindo do sequestrador, misturando-se com a estranha dança de ódio e aflição que ele realiza.'''
+#[[Esse é o momento]]
+c5_text042 = '''Você decide atacar. O sequestrador, vestido de preto com um sobretudo e uma máscara cinza cobrindo o rosto, revela sua silhueta misteriosa. Enquanto você se levanta, empunha sua arma e desfere um golpe.'''
+#input [[Esse é o momento]]
+c5_text043 = '''Sua arma perfura o pescoço do tão cruel vilão.'''
+#input [[Esse é o momento]]
+c5_text044 = '''Seu ataque é efetivo...'''
+#input [[Esse é o momento]]
+c5_text045 = '''Seu pesadelo parece ter um fim.'''
+#input [[Esse é o momento]]
+c5_text046 = '''O golpe é efetivo, e o peso de sua arma cravada no pescoço de seu cruel arqui-inimigo se faz presente.'''
+#input [[Esse é o momento]]
+c5_text047 = '''Você se vê incapaz de conter as lágrimas de emoção que brotam em seus olhos.'''
+#input [[Esse é o momento]]
+c5_text048 = '''A visão de sua família, há tanto tempo perdida, toma conta de sua mente. Com cuidado, você deita o corpo inerte de seu sequestrador no chão.'''
+#input [[Esse é o momento]]
+c5_text049 = '''Suas mãos estão ensanguentadas, mas você as utiliza para cobrir seu próprio rosto, limpando as lágrimas que fluem de seus olhos. O peso do que fez e a felicidade pelo fim desse pesadelo se abatem sobre você, e você desaba.'''
+#[[Analisar o corpo]]
+c5_text050 = '''Você decide analisar o corpo rapidamente, verificando todos os bolsos. Em um deles, encontra um pedaço de papel dobrado. No entanto, sua curiosidade em relação ao seu sequestrador é insaciável.'''
+#input [[Analisar o corpo]]
+c5_text051 = '''Com mãos trêmulas, você retira a máscara que cobre seu rosto, ansioso para finalmente descobrir a identidade da pessoa que o colocou nesse pesadelo.'''
+#input [[Analisar o corpo]]
+c5_text052 = '''As lágrimas inundam seus olhos e escorrem por suas bochechas enquanto você fita o rosto da mulher caída diante de você. O cabelo loiro dela, agora manchado de sangue, está bagunçado e cai sobre um rosto pálido. Seus olhos, uma vez cheios de vida, agora estão vazios e fixos em algum ponto indefinido. A boca dela, que costumava sorrir para você, agora está coberta com um líquido vermelho espesso.'''
+#input [[Analisar o corpo]]
+c5_text053 = '''Uma sensação de angústia o envolve, e você não pode deixar de notar a semelhança inegável entre o rosto dela e o de sua amada esposa. Porque é ela...'''
+#[[O Destino Amaldiçoado]]
+c5_text054 = '''Você, mergulhado em desespero, abraça o corpo de sua esposa, lágrimas escorrendo de seus olhos enquanto a pergunta "Por quê?" ecoa em sua mente. '''
+#input [[O Destino Amaldiçoado]]
+c5_text055 = '''Por que ela estava ali? Por que ela fez isso com você? Você se sente consumido pela tristeza e pelo tormento da situação, incapaz de compreender as razões por trás de todo esse pesadelo.'''
+#input [[O Destino Amaldiçoado]]
+c5_text056 = '''Finalmente, você decide pegar o bilhete que encontrou no bolso dela, em busca de respostas, mesmo que isso signifique encarar a verdade que tanto o atormenta. Com mãos trêmulas, você desdobra o papel amassado e lê as palavras que revelarão o próximo capítulo de sua jornada...'''
+#input [[O Destino Amaldiçoado]]
+c5_text057 = '''"Meu amor,'''
+#input [[O Destino Amaldiçoado]]
+c5_text058 = '''Se você está lendo esta carta, significa que finalmente encontrou a verdade. Quero começar pedindo desculpas, desculpas por tudo o que aconteceu, por todas as escolhas que nos trouxeram a este ponto sombrio e desesperador.'''
+#input [[O Destino Amaldiçoado]]
+c5_text059 = '''Há meses, tenho observado você, meu marido, agir de maneira estranha, como se estivesse perdendo o controle de si mesmo. Não foi fácil testemunhar a sua crescente angústia e confusão, e eu me culpo por não ter agido antes, por não ter feito o suficiente para ajudá-lo.'''
+#input [[O Destino Amaldiçoado]]
+c5_text060 = '''Mas o que me levou a tomar esta terrível decisão foi o ato que você cometeu, um ato que nunca conseguirei esquecer. Você sacrificou nossa filha, a luz de nossas vidas, em meio a um surto terrível e inexplicável. Fui impotente naquele momento, incapaz de impedir essa tragédia.'''
+#input [[O Destino Amaldiçoado]]
+c5_text061 = '''Não posso tirar sua vida, pois ainda o amo, apesar de tudo. Mas também não posso permitir que você continue vivendo sem enfrentar as consequências de suas ações. Este lugar, esta prisão na qual você se encontra agora, é meu ato desesperado de expiação e punição. Você precisa pagar pelos pecados que cometeu, assim como eu também preciso.'''
+#input [[O Destino Amaldiçoado]]
+c5_text062 = '''Espero que, com o tempo, possamos encontrar alguma forma de perdão e redenção, mesmo que seja apenas para nós mesmos. Saiba que estarei sempre com você, mesmo que não possamos estar juntos da maneira que costumávamos. Esta é a nossa realidade agora, uma realidade sombria e penitente.'''
+#input [[O Destino Amaldiçoado]]
+c5_text063 = '''Com amor,'''
+#input [[O Destino Amaldiçoado]]
+c5_text064 = '''Sua esposa, aquela que o ama e o pune."'''
+#[[A corda]]
+c5_text065 = '''No ápice de sua agonia, você se encontra à beira do abismo, prestes a realizar um ato terrível e definitivo. A imagem do crime que cometeu assombra sua mente, clara e perturbadora. As vozes, que o empurraram em direção a esse precipício, ecoam em sua cabeça, sussurrando-lhe incentivos sinistros que você não compreende totalmente.'''
+#input [[A corda]]
+c5_text066 = '''Sua culpabilidade se intensifica, pesando sobre seus ombros como uma âncora, enquanto você busca desesperadamente uma resposta para o porquê de ter cometido tal ato, o que o levou a isso. A sala está mergulhada em sombras, à medida que seus olhos se fixam na corda suspensa, símbolo de sua busca por redenção.'''
+#input [[A corda]]
+c5_text067 = '''Mas então, no instante final, quando parece que nada mais importa, a porta se abre, inundando o ambiente com uma luz incerta. Passos rápidos e determinados se aproximam de você, e um estranho surge em sua visão, indo em sua direção. Nesse momento crucial, o destino reserva um novo rumo para sua jornada, um lampejo de esperança em meio à escuridão.'''
+#Finais
+#[[Fim]]
+c5_text068 = '''
+"To be, or not to be: that is the question."'''
+#[[Efetivo]]
+c5_text069 = '''Sua arma perfura o pescoço do tão cruel vilão. '''
+#input [[Efetivo]]
+c5_text070 = '''Seu ataque é efetivo... '''
+#input [[Efetivo]]
+c5_text071 = '''Seu pesadelo parece ter um fim.''' 
+#input [[Efetivo]
+c5_text072 = '''O golpe é efetivo, e o peso de sua arma cravada no pescoço de seu cruel arqui-inimigo se faz presente.'''
+#input [[Efetivo]]
+c5_text073 = '''Você se vê incapaz de conter as lágrimas de emoção que brotam em seus olhos.'''
+#input [[Efetivo]]
+c5_text074 = '''A visão de sua família, há tanto tempo perdida, toma conta de sua mente. Com cuidado, você deita o corpo inerte de seu sequestrador no chão.'''
+#input [[Efetivo]]
+c5_text075 = '''Suas mãos estão ensanguentadas, mas você as utiliza para cobrir seu próprio rosto, limpando as lágrimas que fluem de seus olhos. O peso do que fez e a felicidade pelo fim desse pesadelo se abatem sobre você, e você desaba.'''
