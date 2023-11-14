@@ -3,6 +3,9 @@
 Bem-vindo ao repositório do nosso projeto para o curso de Tecnólogo em Análise e Desenvolvimento de Sistemas do 2º semestre de 2023, ministrado pelo Prof. Danilo Cardenuto.
 
 ## Descrição do Projeto
+<p align="center">
+  <img src="https://files.catbox.moe/mb7mew.PNG" alt="Pacto de Sangue">
+</p>
 "Pacto de Sangue" é uma aventura narrativa interativa que mergulha os jogadores em um mundo de mistérios e escolhas angustiantes. Você acorda em uma sala branca desconhecida, confuso e desorientado, sem memória de como chegou lá. À medida que explora este ambiente surreal, confronta uma série de enigmas, vozes misteriosas e visões assustadoras. "Pacto de Sangue" é uma experiência intensa de jogo de texto, onde cada decisão molda a história e desvenda os segredos que envolvem seu protagonista.
 
 O jogo se passa em uma misteriosa sala branca, estéril e aparentemente interminável, onde o protagonista acorda sem memória de como chegou lá. O jogador controla o protagonista, explorando a sala, interagindo com objetos e tomando decisões para resolver enigmas e descobrir a verdade.
